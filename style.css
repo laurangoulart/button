@@ -1,0 +1,30 @@
+a{
+    background-color: #e30662;
+    color: white;
+    text-decoration: none;
+    padding: 20px 25px;
+    border-radius: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight:bold;
+    margin: 40px;
+    box-shadow: 2px 2px 5px rgb(114, 114, 114);
+}
+
+a:hover{
+    background-color: white;
+    border: 1px solid #e30662;
+    color: #e30662;
+}
+
+h1{
+    color: #e30662;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin: 40px;
+}
+
+body{
+    background-color: #e5e5e5;
+}
